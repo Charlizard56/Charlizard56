@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Charlizard56
-- 👀 I’m interested in ... Videogames and Retro New Wave
+- 👀 I’m interested in ... Videogames and New Retro Wave
 - 🌱 I’m currently learning ... C# and Monogame-Framework
 - 💞️ I’m looking to collaborate on ... Uhhh...
 - 📫 How to reach me ...
