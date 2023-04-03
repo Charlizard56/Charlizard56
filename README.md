@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Charlizard56
-- 👀 I’m interested in ... Videogames and New Retro Wave
+- 👀 I’m interested in ... Videogames, succulents, and spiders
 - 🌱 I’m currently learning ... C# and Python
 
 <!---
